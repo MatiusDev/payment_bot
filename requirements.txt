@@ -1,0 +1,18 @@
+# Dev environment
+pip
+autopep8
+
+# App
+google-generativeai # Client library for the Gemini API
+
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+pandas
+PyPDF2
+pydantic
+sqlalchemy
+databases
+pytest
+python-dotenv
